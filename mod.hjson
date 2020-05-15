@@ -1,0 +1,6 @@
+name: "Add some blocks Mo"
+displayName: "Cheatrttrtttt[red]B[yellow]l[pink]o[red]k[yellow]s[white] Mod" //what displays in the mod selection menu
+author: "Guru"
+description: "My first mod.This mod will add some blocks."
+version: "25"
+minGameVersion: "100"
